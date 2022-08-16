@@ -1,0 +1,14 @@
+.result-table{
+    margin: auto;
+    align-items: center;
+    max-height: max-content;
+    padding: 30px;
+    padding-top: 60px;
+    background-color: #6daffe;
+
+}
+.content-table{
+    cursor: pointer;
+    background-color: #EDF6FF;
+
+}

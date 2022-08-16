@@ -1,0 +1,13 @@
+.pop-dialog-container{
+    height: 800px;
+    margin: 0 8px 16px 0;
+}
+
+.date-picker-container{
+    margin: 0 8px 16px 0;
+    display: flex;
+}
+.room-quantity{
+    width: 100%;
+    padding-top: 12px;
+}

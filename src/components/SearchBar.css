@@ -1,0 +1,28 @@
+.search-bar-container{
+    margin: auto;
+    align-items: center;
+    width: 1200px;
+    /* background-color: rgb(192, 189, 186); */
+    background-color: #EDF6FF;
+    max-height: max-content;
+    padding: 30px;
+    
+}
+.search-bar-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+    margin: 10px;
+}
+
+.search-bar-bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 25px;
+
+}
+
