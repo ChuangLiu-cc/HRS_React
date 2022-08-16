@@ -1,3 +1,10 @@
+1. changed double click to single click for better UX
+2. load customer reservation data tp memory by import of react native and useEffect
+3. main page - search page, result will show page below: result table or warning msg
+4. clear button works for init search page UI
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
